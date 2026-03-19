@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Subharthi
+## Hi there 👋 I'm Shubh
 
 Data Scientist building applied AI, machine learning, and data systems for real-world problems.  
 Interested in forecasting, generative AI, recommendation systems, and production ML infrastructure.
