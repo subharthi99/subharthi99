@@ -6,9 +6,9 @@ Interested in forecasting, generative AI, recommendation systems, and production
 ---
 
 🔭 Currently working on  
-- Forecasting & optimization systems  
+- Recommendation, Forecasting & optimization systems  
 - Generative AI / RAG applications  
-- On-prem LLM inference & AI infrastructure  
+- AI/ML infrastructure - Distributed Model Serving
 - Data pipelines and production ML workflows  
 
 🌱 Currently learning  
