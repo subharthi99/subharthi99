@@ -16,7 +16,8 @@ I enjoy working on problems where ML meets production — forecasting, optimizat
 - Enterprise GenAI architectures  
 - LLM guardrails and evaluation  
 - Scalable ML systems & deployment  
-- Causal inference and decision modeling  
+- Causal inference and decision modeling
+- Recommendation engines
 
 👯 I’m looking to collaborate on  
 - Applied ML projects  
@@ -26,8 +27,7 @@ I enjoy working on problems where ML meets production — forecasting, optimizat
 
 💬 Ask me about  
 - Machine Learning  
-- Forecasting & optimization  
-- RAG / LLM apps  
+- Generative AI  
 - Data engineering pipelines  
 - Production ML systems  
 
