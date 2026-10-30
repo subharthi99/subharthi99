@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building production AI systems — from data pipelines and model training to high-performance inference and deployment.
+  Building production AI systems: from data pipelines and model training to high-performance inference and deployment.
   <br/>
   Interested in scalable ML infrastructure, efficient LLM serving, and applied machine learning.
 </p>
@@ -18,9 +18,9 @@
 
 ### What I'm building
 
-- **LLM inference & infrastructure** — GPU-accelerated model serving, batching, latency and throughput optimization.
-- **Applied ML & GenAI** — forecasting, recommendation systems, RAG, and agentic workflows.
-- **Production ML platforms** — data pipelines, experiment tracking, model registries, and reliable deployment.
+- **LLM inference & infrastructure**: GPU-accelerated model serving, batching, latency and throughput optimization.
+- **Applied ML & GenAI**: forecasting, recommendation systems, RAG, and agentic workflows.
+- **Production ML platforms**: data pipelines, experiment tracking, model registries, and reliable deployment.
 
 ### Tech stack
 
