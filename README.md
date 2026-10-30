@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Shubh 👋</h2>
 
 <p align="center">
-  <strong>Data Scientist · ML Systems · LLM Inference & Infrastructure</strong>
+  <strong>Applied AI/ML Engineer · ML Systems · LLM Inference & Infrastructure</strong>
 </p>
 
 <p align="center">
